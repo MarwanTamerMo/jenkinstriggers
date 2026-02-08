@@ -3,6 +3,7 @@
 Simple test file that prints a cool diamond shape
 """
 
+# This function prints a diamond pattern to the console
 def print_diamond():
     """Print a diamond pattern"""
     size = 5
